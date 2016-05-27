@@ -1,0 +1,153 @@
+#main {
+	width: 100%;
+	background-image: url(./images/navbg.png);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+#mcon {
+	clear: both;
+	margin: 0 auto;
+	width: 1137px;
+	border: 1px solid #E5E5E5;
+	position: relative;
+	background-color: #ffffff;
+}
+#left { margin-top: 20px;
+	width: 790px;
+	padding: 29px 29px 0;
+	position: relative;
+}
+#mrt {
+	height: 18px;
+	width: 209px;
+	font-size: 12px;
+	color: #888888;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+#mrt:hover {
+	cursor: pointer;
+}
+.mrti {
+	text-align: center;
+	padding: 0 5px;
+	display: inline-block;
+	border-right: 1px solid #CCD2D8;
+}
+.mrti3 {
+	border:hidden;
+}
+#mtitle {
+	width: 700px;
+	height: 39px;
+	margin-bottom: 10px;
+	font-weight: normal;
+	color: #333333;
+	display: block;
+}
+p {
+	text-indent: 2em;
+	font-family: "宋体";
+	font-size: 14px;
+	line-height: 24px;
+	color: #333333;
+}
+.click {
+	color: #136EC2;
+}
+.linkvideo {
+	width: 790;
+	height: 380px;
+	margin: 35px 0;
+	position: relative;
+}
+.lvul {
+	display: block;
+	list-style-type: none;
+	font-size: 12px;
+	line-height: 24px;
+	color: #666666;
+	float: right;
+	margin-left: -30px;
+	position: absolute;
+	top: 30px;
+	right: 30px;
+}
+.about {
+	width: 790px;
+	height: 104px;
+	font-size: 12px;
+	margin: 20px 0 35px 0;
+}
+.aboutul {
+	list-style-type: none;
+	display: block;
+}
+.aboutul li {
+	float: left;
+	line-height: 24px;
+}
+.asli {
+	display: inline-block;
+	width: 90px;
+	height: 25px;
+	padding: 3px 5px -3px 12px;
+	color: #999999;
+	font-weight: bolder;
+	border-bottom: 1px dashed #DADADA;
+}
+.abli {
+	width: 285px;
+	height: 25px;
+	border-bottom: 1px dashed #DADADA;
+}
+.litable {
+	width: 613px;
+	height: 133px;
+	border-top: 1px solid #DDDDDD;
+	border-bottom: 1px solid #DDDDDD;
+}
+ul li.litdli {
+	width: 70px;
+	margin-left: 65px;
+	font-size: 12px;
+	color: #333333;
+	list-style-type: square;
+}
+.litd {
+	width: 176px;
+	line-height: 20px;
+	text-align: center;
+	vertical-align: top;
+	padding-top: 20px;
+}
+.par {
+	width: 100%;
+	height: 24px;
+	margin: 35px 0 15px -30px;
+	padding: 0 8px 0 18px;
+	line-height: 24px;
+	border-left: 12px solid #4F9CEE;
+	font-size: 22px;
+	font-weight: 400;
+	position: relative;
+	font-family: Microsoft YaHei,SimHei,Verdana;
+}
+.parb {
+	width: 694px;
+	position: absolute;
+	top: 12px;
+	right: 0;
+	border-top:1px solid #E6E6E6;
+}
+.par1 h3 {
+	font-size: 18px;
+	font-weight: 400;
+}
+.sparimg {
+	display: block;
+	float: right;
+	margin-top: 10px;
+	margin-left: 5px;
+}

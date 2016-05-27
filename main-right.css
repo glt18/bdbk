@@ -1,0 +1,117 @@
+#main {
+	width: 100%;
+	background-image: url(./images/navbg.png);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+#mcon {
+	clear: both;
+	margin: 0 auto;
+	width: 1137px;
+	border: 1px solid #E5E5E5;
+	position: relative;
+	background-color: #ffffff;
+}
+#right {
+	position: absolute;
+	right:0;
+	top: 0;
+	padding-top: 29px;
+	width: 270px;
+	margin-right: 30px;
+}
+.r-img {
+	display: block;
+	border:1px solid #DDDDDD;
+	width: 268px;
+	margin-bottom: 20px;
+}
+.ri1 {
+	box-shadow: 2px 2px #DDDDDD;
+}
+.rnav {
+	border:1px solid #DDDDDD;
+	height: 38px;
+	clear: both;
+
+}
+.rnavl {
+	width: 90px;
+	padding-top: 10px;
+	text-align: center;
+	display: block;
+	margin-bottom: 10px;
+	float: left;
+	font-size: 14px;
+	font-weight: bolder;
+}
+.rnavr {
+	width: 90px;
+	padding-top: 10px;
+	text-align: center;
+	display: block;
+	margin-bottom: 10px;
+	font-size: 12px;
+	float: right;
+	color: #666666;
+}
+.r3 {
+	border:1px solid #DDDDDD;
+	height: 698px;
+}
+.r3nav {
+	border: hidden;
+	clear: both;
+}
+.r3p {
+	width: 72px;
+	height: 96px;
+	float: left;
+	margin-left: 15px;
+}
+.r3f {
+	width: 65px;
+	height: 14px;
+	font-size: 12px;
+	text-align: center;
+	display: block;
+	padding-top: 5px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	clear: both;
+}
+.r4 {
+	margin-top: 10px;
+	display: block;
+}
+.r5 {
+	margin-top: 10px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-bottom: 15px;	
+	width: 253px;
+	border:1px solid #DDDDDD;
+}
+.r5 span {
+	display: block;
+	font-family: "宋体";
+	color: #555555;
+	font-weight: normal;
+	line-height: 20px;
+	font-size: 12px;
+}
+.r6 {
+	width: 238px;
+	padding: 15px 15px 15px 15px;
+	margin-top: 10px;
+	border:1px solid #DDDDDD;
+}
+.r6 span {
+	display: block;
+	color: #5F5F5F;
+	font-weight: bolder;
+	line-height: 25px;
+	font-size: 12px;
+	border-bottom: 1px dashed #D8D1D1;
+}
